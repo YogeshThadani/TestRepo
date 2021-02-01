@@ -1,3 +1,4 @@
 Change1 –commit with message as “Change1 in RemoteFile”
 Change2–commit with message as “Change2in RemoteFile”
 Change3 –commit with message as “Change3in RemoteFile”
+Change4 –commit with message as “Change4in RemoteFile”
